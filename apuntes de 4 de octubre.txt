@@ -1,0 +1,23 @@
+REDES
+
+inutillidae ll  (para paginas web) instalar en el servidor  
+D.V.W.A  
+OWASP estandar de seguridad 
+como hacer correr una aplicacion web
+
+COMPILADORES 
+
+Parser 
+	gramatica libre de contexto 
+
+	G={V,T,P,I}
+
+		V=simbolos no terminales 
+		T=simbolos terminales 
+		P= reglas de produccion 
+		I=simbolo de inicio 
+
+	regla de produccion ?
+	
+	S:: = QQQ
+	Q:: = 1/0
