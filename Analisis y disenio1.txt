@@ -7,3 +7,5 @@ Viabilidad Tecnica
 Viavilidad operacional 
 	-Querer
 	-Poder 
+
+Viabilidad
