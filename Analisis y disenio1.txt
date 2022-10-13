@@ -1,0 +1,9 @@
+Viabilidad Economica 
+	- costo vs presupuesto 
+Viabilidad Tecnica 
+	- tecnologia disponible - hw 
+					- sw
+
+Viavilidad operacional 
+	-Querer
+	-Poder 
